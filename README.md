@@ -1,6 +1,6 @@
 # Bus-Reservation-System-designed-with-c-
 Bus-Reservation-System-designed-with-c++
-Bus Reservation System
+
 Using Trubo c++ compiler to run this code. This is a simple bus reservation system programmed using C++. The program allows you to:
 
 Add bus details
